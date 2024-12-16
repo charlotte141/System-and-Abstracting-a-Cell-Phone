@@ -1,0 +1,14 @@
+C:\Users\delci\OneDrive\Documentos\C#\System and Abstracting a Cell Phone\bin\Debug\net8.0\System and Abstracting a Cell Phone.exe
+C:\Users\delci\OneDrive\Documentos\C#\System and Abstracting a Cell Phone\bin\Debug\net8.0\System and Abstracting a Cell Phone.deps.json
+C:\Users\delci\OneDrive\Documentos\C#\System and Abstracting a Cell Phone\bin\Debug\net8.0\System and Abstracting a Cell Phone.runtimeconfig.json
+C:\Users\delci\OneDrive\Documentos\C#\System and Abstracting a Cell Phone\bin\Debug\net8.0\System and Abstracting a Cell Phone.dll
+C:\Users\delci\OneDrive\Documentos\C#\System and Abstracting a Cell Phone\bin\Debug\net8.0\System and Abstracting a Cell Phone.pdb
+C:\Users\delci\OneDrive\Documentos\C#\System and Abstracting a Cell Phone\obj\Debug\net8.0\System and Abstracting a Cell Phone.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\delci\OneDrive\Documentos\C#\System and Abstracting a Cell Phone\obj\Debug\net8.0\System and Abstracting a Cell Phone.AssemblyInfoInputs.cache
+C:\Users\delci\OneDrive\Documentos\C#\System and Abstracting a Cell Phone\obj\Debug\net8.0\System and Abstracting a Cell Phone.AssemblyInfo.cs
+C:\Users\delci\OneDrive\Documentos\C#\System and Abstracting a Cell Phone\obj\Debug\net8.0\System and Abstracting a Cell Phone.csproj.CoreCompileInputs.cache
+C:\Users\delci\OneDrive\Documentos\C#\System and Abstracting a Cell Phone\obj\Debug\net8.0\System and Abstracting a Cell Phone.dll
+C:\Users\delci\OneDrive\Documentos\C#\System and Abstracting a Cell Phone\obj\Debug\net8.0\refint\System and Abstracting a Cell Phone.dll
+C:\Users\delci\OneDrive\Documentos\C#\System and Abstracting a Cell Phone\obj\Debug\net8.0\System and Abstracting a Cell Phone.pdb
+C:\Users\delci\OneDrive\Documentos\C#\System and Abstracting a Cell Phone\obj\Debug\net8.0\System and Abstracting a Cell Phone.genruntimeconfig.cache
+C:\Users\delci\OneDrive\Documentos\C#\System and Abstracting a Cell Phone\obj\Debug\net8.0\ref\System and Abstracting a Cell Phone.dll
